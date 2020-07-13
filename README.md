@@ -7,8 +7,10 @@ Atualmente estou desenvolvendo para o servidor [Viciante](https://www.viciante.c
 
 ### Contato
 
-<a href="https://www.instagram.com/kaio.a.souza/"><img align="left" alt="Aureom Instagram" width="30" src="https://raw.githubusercontent.com/Aureom/Aureom/master/assets/instagram.svg"></a> <a href="https://twitter.com/Aureom_"><img align="left" alt="Aureom Twitter" width="30" src="https://raw.githubusercontent.com/Aureom/Aureom/master/assets/twitter.svg"></a> <a href="mailto:kaioaugusto02@gmail.com"><img align="left" alt="Aureom Email" width="30" src="https://raw.githubusercontent.com/Aureom/Aureom/master/assets/gmail.svg"></a>
+<a href="https://www.instagram.com/kaio.a.souza/"><img align="left" alt="Aureom Instagram" width="30" src="https://raw.githubusercontent.com/Aureom/Aureom/master/assets/instagram.svg"></a> <a href="https://twitter.com/Aureom_"><img align="left" alt="Aureom Twitter" width="30" src="https://raw.githubusercontent.com/Aureom/Aureom/master/assets/twitter.svg"></a> <a href="mailto:kaioaugusto02@gmail.com"><img align="left" alt="Aureom Email" width="30" src="https://raw.githubusercontent.com/Aureom/Aureom/master/assets/gmail.svg"></a>  
+
+  
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Aureom.visitor_badge)  
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Aureom.visitor_badge)
 
