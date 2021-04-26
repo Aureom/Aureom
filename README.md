@@ -1,3 +1,3 @@
 ## Oi! 👋
 
-Olá, meu nome é Kaio Souza, conhecido também como Aureom.
+Olá, meu nome é Kaio Augusto de Souza, conhecido também como Aureom.
