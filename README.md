@@ -1,10 +1,10 @@
 ## Howdy! 👋🤠
 
-**I am Kaio Augusto de Souza, widely recognized in the tech community as Aureom.**
+**I am Kaio Augusto de Souza, recognized in the tech community as Aureom.**
 
 My journey has led me to spearhead pivotal projects with [Java](https://www.java.com/) and [Kotlin](https://kotlinlang.org/), pushing the boundaries of data optimization and seamless CI/CD integration. I'm proficient with [Spring Framework](https://spring.io/) and [Quarkus](https://quarkus.io/), and I’m constantly exploring the vast expanse of AWS and Docker to forge systems that stand the test of scale and efficiency.
 
-🚀 I'm currently leading significant projects utilizing [Java](https://www.java.com/) and [Kotlin](https://kotlinlang.org/), enhancing data optimization processes, and implementing CI/CD practices using the [Spring Framework](https://spring.io/) and [Quarkus](https://quarkus.io/) . I'm also diving deep into cloud services and containerization with AWS and Docker, aiming to build scalable and efficient software solutions.
+🚀 I'm currently leading significant projects utilizing [Java](https://www.java.com/) and [Kotlin](https://kotlinlang.org/) with the frameworks [Spring Framework](https://spring.io/) and [Quarkus](https://quarkus.io/) . I'm also diving deep into cloud services and containerization with AWS and Docker, aiming to build scalable and efficient software solutions.
 
 <div align="center">
   <a href="https://github.com/Aureom">
